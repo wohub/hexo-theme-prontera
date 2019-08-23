@@ -3,8 +3,8 @@ favicon: /favicon.ico
 
 # Nav Menus
 menu:
-    Index: /
-    Archives: /archives
+    首页: /
+    ## Archives: /archives
 
 # Nav Shortcut Icons
 nav_icons:
@@ -19,8 +19,8 @@ friend_links:
 
 # About
 about_info:
-    name: "AngryPowman"
-    bio: "十年饮冰·难凉热血"
+    name: "会上树的猪"
+    bio: "想想干点啥"
     avatar: "/images/avatar.png"
 
 # Comment
@@ -33,4 +33,4 @@ google_analytics: angrypowman
 tencent_analytics: 
  
 # Copyright Infomation
-startyear: 2017
+startyear: 2019
